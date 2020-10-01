@@ -9,11 +9,11 @@
 - 👯 I’m looking to collaborate on content and building communities.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything 😉
-- 😄 Pronouns: He/Him
-- 🎯 Moto: `Live The Life to it's Fullest`
-- ⚡ Fun fact: I prefer {curly braces} over &emsp;&emsp;&emsp;Indentation.
+- 😄 Pronouns:- He/Him
+- 🎯 Moto:- `Live The Life to it's Fullest`
+- ⚡ Fun fact:- I prefer {curly braces} over &emsp;&emsp;&emsp;Indentation.
 
-- 📫 How to reach me: 
+- 📫 How to reach me:- 
 
   - [My Site!](http://ksatyarth2.live)
   - [LinkedIn!](http://linkedin.com/in/ksatyarth2) 
